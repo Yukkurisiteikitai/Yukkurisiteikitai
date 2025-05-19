@@ -1,6 +1,6 @@
 ## Hi there 👋
 - I'm a Japanese student.
-
+- [last year activity](https://note.com/saika78/n/ncc254fab87c9)
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Yukkurisiteikitai" />
