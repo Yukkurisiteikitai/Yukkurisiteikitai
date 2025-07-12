@@ -41,7 +41,7 @@
 
 ## 📮 連絡・更新など
 
-- 💬 X(旧名:Twitter): [@Yukkurisiteikitai](https://twitter.com/Yukkurisiteikitai)
+- 💬 X(旧名:Twitter): [@nikeri](https://twitter.com/ikari569)
 - 📓 Qiita : [@Nikeri](https://qiita.com/Nikeri)
 - 📦 GitHub Activity: [Public Repos](https://github.com/Yukkurisiteikitai?tab=repositories)
 
