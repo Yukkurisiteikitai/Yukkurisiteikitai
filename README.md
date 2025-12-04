@@ -59,13 +59,14 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=6&i=html,css,js,bootstrap,python,flask,bash,git,github,docker,aws,blender,vscode" />
 
 ## Activity
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yukkurisiteikitai&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukkurisiteikitai&count_private=true" />
 </a>
-<br>
+<br> -->
+![Developer Score](https://github-stats-eta-two.vercel.app/api/stats/Yukkurisiteikitai?theme=dark)
 ---
 
 
